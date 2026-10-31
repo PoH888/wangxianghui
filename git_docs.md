@@ -13,6 +13,9 @@ git switch -c feature/分支名称
 ```
 git add .  **(提交全部更改)**
 git commit -m "feat: 填写提交内容"
+
+git push -u origin HEAD （当前分支）
+git push -u origin feature/main
 git push -u origin feature/分支名称
 ```
 
