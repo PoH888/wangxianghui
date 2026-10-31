@@ -4,18 +4,18 @@ git clone https://github.com/用户名/paranormal-bureau.git
 cd paranormal-bureau
 ```
 
-# 建立分支
+# 切换分支
 ```
 git switch -c feature/分支名称
 ```
 
 # 提交
 ```
-git add .  **(提交全部更改)**
+git add .  **(暂存当前目录下的所有修改)**
 git commit -m "feat: 填写提交内容"
 
 git push -u origin HEAD （当前分支）
-git push -u origin feature/main
+git push -u origin feature/master
 git push -u origin feature/分支名称
 ```
 
@@ -35,3 +35,10 @@ git push -u origin feature/分支名称
 git fetch origin
 git merge origin/main
 ```
+
+# 查看
+## 文件修改状态
+```
+git status
+```
+
