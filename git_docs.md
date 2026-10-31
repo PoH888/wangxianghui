@@ -1,7 +1,7 @@
 # 克隆
 ```
-git clone https://github.com/PoH/wangxianghui.git
-cd paranormal-bureau
+git clone https://github.com/PoH888/wangxianghui.git
+cd wangxianghui
 ```
 
 # 切换分支
