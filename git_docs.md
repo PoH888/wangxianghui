@@ -1,6 +1,6 @@
 # 克隆
 ```
-git clone https://github.com/用户名/paranormal-bureau.git
+git clone https://github.com/PoH/wangxianghui.git
 cd paranormal-bureau
 ```
 
